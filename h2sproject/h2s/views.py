@@ -6,3 +6,4 @@ def SignUp(request):
         username=request.POST.get("username")
         password=request.POST.get("password")
         user_create=User.
+        "hello"
