@@ -5,5 +5,5 @@ def SignUp(request):
     if request.method=="POST":
         username=request.POST.get("username")
         password=request.POST.get("password")
-        user_create=User.
-        "hello"
+        user_create=User
+        "hello babu"
